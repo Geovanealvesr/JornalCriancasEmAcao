@@ -1,0 +1,12 @@
+@import "https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap";body{font-family:"Spicy Rice",serif;font-weight:400;font-style:normal}.custom-badge{font-size:1.2rem;color:#000;padding:.5em 1em;font-family:Arial,sans-serif}.badgep{font-size:10px;padding:.5em 1em;font-family:Arial,sans-serif}.letra .textblack{color:#000}.navbar-brand{display:flex;align-items:center}.navbar-brand img{height:50px;margin-right:10px}.bg-primary{background-color:#ffff!important}
+
+.botao{
+    background-color: #C6E5B1; 
+    border-color:  #C6E5B1; 
+    color: black; 
+}
+
+.botao:hover{
+    background-color: #00FF00; 
+  border-color: #00FF00; 
+}
