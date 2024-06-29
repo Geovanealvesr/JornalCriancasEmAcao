@@ -14,3 +14,17 @@
 .font1 {
   font-size: 14px;
 }
+
+p {
+  padding: 5px;
+}
+
+.navbar-hover:hover {
+  color: #616A6B;
+}
+
+@media (max-width: 992px) {
+  .hide-mobile {
+      display: none;
+  }
+}
